@@ -33,9 +33,7 @@ A mobile-first web app that:
 - Achievement stars/hearts display on stamps (2-3 per park)
 
 #### Geolocation Verification
-- **Plan A:** Background location tracking detects park boundary crossing, auto-awards stamp
-- **Fallback:** Manual check-in (acknowledging potential for cheating)
-- Push notification when entering park boundaries
+- **Plan:** Background location tracking detects park boundary crossing, auto-awards stamp
 
 #### Individual Park Page (`/parks/[id]`)
 - Park photo, name, founding date
