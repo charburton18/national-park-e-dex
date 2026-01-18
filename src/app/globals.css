@@ -1,7 +1,12 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
+  --background: #F5F1E8; /* soft linen */
+  --primary: #1D5D36; /* hunter green */
+  --secondary: #C09635; /* golden bronze */
+  --secondary-text: #3D3D3D; /* gun metal */
+  --error-state: #C44536; /* tomato jam */
+  --accent: #E8A547; /* sunlit clay */
 }
 
 @theme inline {
