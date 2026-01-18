@@ -31,12 +31,12 @@ export default function ProfilePage() {
       {/* Profile Section */}
       <div className="flex items-center gap-6 mb-8">
         <div className="relative w-24 h-24 rounded-full overflow-hidden border-4 border-[#1D5D36] shadow-lg">
-          <Image
-            src={user.profileImage}
-            alt="Profile"
-            fill
-            className="object-cover"
-          />
+        <Image
+          src={user.profileImage}
+          alt="Profile"
+          fill
+          className="rounded-full object-cover"
+        />
         </div>
         <div>
           <h1 className="text-2xl font-bold text-[#3D3D3D]">{user.name}</h1>
