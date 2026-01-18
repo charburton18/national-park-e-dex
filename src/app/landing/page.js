@@ -86,7 +86,7 @@ export default function LandingPage() {
         onMouseLeave={handleMouseUp}
       >
         {/* Logo Container */}
-        <div className="relative w-64 h-64 mb-8">
+        <div className="relative w-80 h-80 mb-8">
           <Image
             src="/park-e-dex-logo.png"
             alt="National Park-e-dex Logo"
