@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Butterfield Overland",
+    "location": "MO, AR, OK, TX, NM, AZ, CA",
+    "image": "/Butterfield-Overland-stamp.png",
+    "stamp": "/Butterfield-Overland-stamp.png",
+    "description": "In 1857, businessman and transportation entrepreneur John Butterfield was awarded a contract to establish an overland mail route between the eastern United States and growing populations in the Far West. What became known as the Butterfield Overland Trail made an arcing sweep across the southern rim of the country. Stagecoaches left twice a week carrying passengers, freight, and mail."
+  },
+  {
+    "id": 2,
+    "name": "Canyon de Chelly",
+    "location": "Chinle, AZ",
+    "image": "/Canyon-de-Chelly-stamp.png",
+    "stamp": "/Canyon-de-Chelly-stamp.png",
+    "description": "This canyon is home to Diné families who raise livestock, farmlands, and live here. People have lived in these canyons for nearly 5,000 years, longer than anywhere else on the Colorado Plateau. Today, the park and Navajo Nation work together to manage its cultural and natural resources."
+  },
+  {
+    "id": 3,
+    "name": "Casa Grande Ruins",
+    "location": "Coolidge, AZ",
+    "image": "/Casa-Grande-profile.jpg",
+    "stamp": "/Casa-Grande-stamp.png",
+    "description": "An Ancestral Sonoran Desert People's farming community and Great House are preserved at Casa Grande Ruins. These structures played a key role in a vast system of canals and trade routes connecting desert communities."
+  },
+  {
+    "id": 4,
+    "name": "Chiricahua",
+    "location": "Willcox, AZ",
+    "image": "/Chiricahua.png",
+    "stamp": "/Chiricahua.png",
+    "description": "Rhyolite pinnacles and balanced rocks rise between two deserts, creating a unique habitat. Prehistoric peoples, Apaches, Buffalo Soldiers, and homesteaders all left their mark on this dramatic landscape."
+  },
+  {
+    "id": 5,
+    "name": "Coronado",
+    "location": "Hereford, AZ",
+    "image": "/Coronado-stamp.png",
+    "stamp": "/Coronado-stamp.png",
+    "description": "Inspired by tales of cities of gold, Coronado’s expedition brought exploration, conflict, and cultural exchange. The encounter between Indigenous peoples and Europeans reshaped history in the Southwest."
+  },
+  {
+    "id": 6,
+    "name": "Fort Bowie",
+    "location": "Willcox, AZ",
+    "image": "/Fort Bowie.png",
+    "stamp": "/Fort Bowie.png",
+    "description": "For nearly 25 years, Fort Bowie stood at the center of conflict between the Chiricahua Apache and the U.S. Army. A scenic loop trail now tells the story of this pivotal cultural collision."
+  },
+  {
+    "id": 7,
+    "name": "Glen Canyon",
+    "location": "AZ, UT",
+    "image": "/Glen-Canyon-stamp.png",
+    "stamp": "/Glen-Canyon-stamp.png",
+    "description": "Spanning 1.25 million acres, Glen Canyon offers water recreation, dramatic geology, and a deep human history stretching from Lees Ferry to southern Utah."
+  },
+  {
+    "id": 8,
+    "name": "Grand Canyon",
+    "location": "Grand Canyon, AZ",
+    "image": "/Grand-Canyon-profile.jpg",
+    "stamp": "/Grand-Canyon-stamp.png",
+    "description": "Carved by the Colorado River, the Grand Canyon spans 278 miles and lies within the ancestral homelands of 11 Tribal Communities. Its immense scale and layered geology are unmatched."
+  },
+  {
+    "id": 9,
+    "name": "Grand Canyon-Parashant",
+    "location": "Northern Arizona, AZ",
+    "image": "/Grand-Canyon-Parashant-stamp.png",
+    "stamp": "/Not-visited-stamp.png",
+    "description": "Remote and rugged, Parashant preserves nearly two billion years of geologic history and more than 11,000 years of human presence."
+  },
+  {
+    "id": 10,
+    "name": "Hubbell Trading Post",
+    "location": "Ganado, AZ",
+    "image": "/Hubbell-Trading-Post-stamp.png",
+    "stamp": "/Hubbell-Trading-Post-stamp.png",
+    "description": "Established in 1878, Hubbell Trading Post is the oldest operating trading post on the Navajo Nation, continuing a legacy of commerce and Native American art."
+  },
+  {
+    "id": 11,
+    "name": "Juan Bautista de Anza",
+    "location": "AZ, CA",
+    "image": "/Juan-Bautista-de-Anza-Stamp.png",
+    "stamp": "/Juan-Bautista-de-Anza-Stamp.png",
+    "description": "This 1,200-mile historic trail follows the 1775–76 expedition from Mexico to San Francisco, crossing the homelands of more than 70 Tribal communities."
+  },
+  {
+    "id": 12,
+    "name": "Lake Mead",
+    "location": "AZ, NV",
+    "image": "/Lake-meade-stamp.png",
+    "stamp": "/Not-visited-stamp.png",
+    "description": "Covering 1.5 million acres, Lake Mead offers boating, hiking, camping, and striking desert landscapes surrounding two vast reservoirs."
+  },
+  {
+    "id": 13,
+    "name": "Montezuma Castle",
+    "location": "Camp Verde, AZ",
+    "image": "/Montezuma Castle.png",
+    "stamp": "/Montezuma Castle.png",
+    "description": "Built into a limestone cliff, this 20-room dwelling reflects ingenuity and survival by ancestral peoples thriving in a challenging desert environment."
+  },
+  {
+    "id": 14,
+    "name": "Old Spanish Trail",
+    "location": "AZ, CA, CO, NV, NM, UT",
+    "image": "/Old-Spanish-stamp.png",
+    "stamp": "/Old-Spanish-stamp.png",
+    "description": "This historic trade route connected Santa Fe and Los Angeles, carrying goods, mules, and cultural exchange across the Southwest."
+  },
+  {
+    "id": 15,
+    "name": "Organ Pipe Cactus",
+    "location": "Ajo, AZ",
+    "image": "/Organ-pipe-stamp.png",
+    "stamp": "/Organ-pipe-stamp.png",
+    "description": "An International Biosphere Reserve, Organ Pipe protects a thriving Sonoran Desert ecosystem rich in plant life and human history."
+  },
+  {
+    "id": 16,
+    "name": "Petrified Forest",
+    "location": "Petrified Forest National Park, AZ",
+    "image": "/petrified-forest-profile.jpg",
+    "stamp": "/Petrified-forest.png",
+    "description": "Known for Triassic fossils and the Painted Desert, Petrified Forest preserves a 200-million-year-old ecosystem alongside living desert species."
+  },
+  {
+    "id": 17,
+    "name": "Pipe Spring",
+    "location": "Fredonia, AZ",
+    "image": "/Organ-pipe-stamp.png",
+    "stamp": "/Organ-pipe-stamp.png",
+    "description": "Pipe Spring tells the intertwined stories of the Kaibab Paiute people and Mormon settlers, centered around life-sustaining desert water."
+  },
+  {
+    "id": 18,
+    "name": "Saguaro",
+    "location": "Tucson, AZ",
+    "image": "/Sunset-crater-profile.jpg",
+    "stamp": "/Park-achievement-stamp.png",
+    "description": "Home to the nation’s largest cacti, Saguaro National Park protects towering saguaros that define the Sonoran Desert."
+  },
+  {
+    "id": 19,
+    "name": "Sunset Crater Volcano",
+    "location": "Flagstaff, AZ",
+    "image": "/Sunset-crater-profile.jpg",
+    "stamp": "/Sunset-Crater-Volcano-stamp.png",
+    "description": "A thousand years after eruption reshaped the land, Sunset Crater’s lava flows remain a powerful reminder of Arizona’s volcanic past."
+  },
+  {
+    "id": 20,
+    "name": "Tonto",
+    "location": "Roosevelt, AZ",
+    "image": "/Overlook-badge-stamp.png",
+    "stamp": "/Overlook-badge-stamp.png",
+    "description": "Two cliff dwellings reveal the Salado culture that thrived between 1300–1450 CE in the Tonto Basin."
+  },
+  {
+    "id": 21,
+    "name": "Tumacácori",
+    "location": "Tumacácori, AZ",
+    "image": "/Park-achievement-stamp.png",
+    "stamp": "/Park-achievement-stamp.png",
+    "description": "Tumacácori reflects centuries of cultural exchange between Indigenous peoples, missionaries, settlers, and soldiers."
+  },
+  {
+    "id": 22,
+    "name": "Tuzigoot",
+    "location": "Clarkdale, AZ",
+    "image": "/Tuzigoot-profile.jpg",
+    "stamp": "/Tuzigoot-stamp.png",
+    "description": "Built atop a hill in the Verde Valley, Tuzigoot preserves a large pueblo shaped by water, trade, and community life."
+  }
+]

@@ -1,4 +1,3 @@
-import { NavBar } from "../_components/NavBar"
 import Image from "next/image"
 
 export default function ProfilePage() {
@@ -114,7 +113,6 @@ export default function ProfilePage() {
         </div>
       </div>
 
-      <NavBar />
     </div>
   )
 }

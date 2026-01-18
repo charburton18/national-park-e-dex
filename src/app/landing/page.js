@@ -32,7 +32,7 @@ export default function LandingPage() {
 
     // If swiped more than 100px, navigate to home
     if (currentX > 100) {
-      router.push('/')
+      router.push('/stamps')
     } else {
       // Reset position
       setCurrentX(0)
@@ -60,7 +60,7 @@ export default function LandingPage() {
 
     // If swiped more than 100px, navigate to home
     if (currentX > 100) {
-      router.push('/')
+      router.push('/stamps')
     } else {
       // Reset position
       setCurrentX(0)
