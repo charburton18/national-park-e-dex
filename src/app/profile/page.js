@@ -31,7 +31,7 @@ export default function ProfilePage() {
     <div className="min-h-screen pb-32 px-4 pt-8">
       {/* Profile Section */}
       <div className="flex items-center gap-6 mb-8">
-        <div className="relative w-24 h-24 rounded-full overflow-hidden border-4 border-[#1D5D36] shadow-lg">
+        <div className="relative w-32 h-32 rounded-full overflow-hidden border-4 border-[#1D5D36] shadow-lg">
           <Image
             src={user.profileImage}
             alt="Profile"
