@@ -20,7 +20,7 @@ export const NavBar = () => {
             <Map color="white" size={32} />
           </div>
         </Link>
-        <Link href='/'>
+        <Link href='/profile'>
           <div className="flex w-16 h-16 bg-[#196033] rounded-2xl items-center justify-center shadow-inner shadow-black/40 transform transition-transform duration-200 hover:scale-110">
             <UserRound color="white" size={32} />
           </div>
