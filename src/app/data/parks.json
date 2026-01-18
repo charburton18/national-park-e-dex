@@ -36,7 +36,7 @@
     "name": "Coronado",
     "location": "Hereford, AZ",
     "image": "/Coronado-stamp.png",
-    "stamp": "/Coronado-stamp.png",
+    "stamp": "/Not-visited-stamp.png",
     "description": "Inspired by tales of cities of gold, Coronado’s expedition brought exploration, conflict, and cultural exchange. The encounter between Indigenous peoples and Europeans reshaped history in the Southwest."
   },
   {
@@ -140,7 +140,7 @@
     "name": "Saguaro",
     "location": "Tucson, AZ",
     "image": "/Sunset-crater-profile.jpg",
-    "stamp": "/Park-achievement-stamp.png",
+    "stamp": "/Not-visited-stamp.png",
     "description": "Home to the nation’s largest cacti, Saguaro National Park protects towering saguaros that define the Sonoran Desert."
   },
   {
@@ -156,7 +156,7 @@
     "name": "Tonto",
     "location": "Roosevelt, AZ",
     "image": "/Overlook-badge-stamp.png",
-    "stamp": "/Overlook-badge-stamp.png",
+    "stamp": "/Not-visited-stamp.png",
     "description": "Two cliff dwellings reveal the Salado culture that thrived between 1300–1450 CE in the Tonto Basin."
   },
   {
@@ -164,7 +164,7 @@
     "name": "Tumacácori",
     "location": "Tumacácori, AZ",
     "image": "/Park-achievement-stamp.png",
-    "stamp": "/Park-achievement-stamp.png",
+    "stamp": "/Not-visited-stamp.png",
     "description": "Tumacácori reflects centuries of cultural exchange between Indigenous peoples, missionaries, settlers, and soldiers."
   },
   {
